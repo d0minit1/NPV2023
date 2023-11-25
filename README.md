@@ -1,2 +1,3 @@
 # NPV2023
- A megoldások néhol hiányosak
+ Az 1.forduló első 5 feladatának megoldása. 
+ *(néhol hiányos algoritmusokkal)*
